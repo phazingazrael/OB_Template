@@ -19,15 +19,15 @@ tags:
 - [[0A_1_5_YearlyReview]]
     - Review of the past year
 - [[0A_1_6_WeeklyLog]]
-	- Log of Week 
+    - Log of Week 
 - [[0A_1_7_DailyLog_V2]]
     - Log of every day activity Version 2
 - [[0A_1_8_WeeklyReview_V2]]
-	- Review of how the weak went Version 2
+    - Review of how the week went Version 2
 - [[0A_1_9__MonthlyLog_V2]]
-	-  Review of how the month went Version 2
+    -  Review of how the month went Version 2
 - [[0A_1_10_WeeklyLog_V2]]
-	- Log of Week V2
+    - Log of Week V2
 ## 2️⃣ - Lists
 - [[0A_2_1_List]]
     - Task List
@@ -37,9 +37,9 @@ tags:
 - [[0A_3_2_ActionPlan]]
     - Basic design for a project task
 - [[0A_3_3_Project_V2]]
-	- Base design for a project Version 2
+    - Base design for a project Version 2
 - [[0A_3_4_ProjectProposal]]
-	- Base design for a project proposal
+    - Base design for a project proposal
 ## 4️⃣ - Courses
 - [[0A_4_1_Course]]
     - Base information for a course
@@ -66,7 +66,7 @@ tags:
 - [[0A_10_1_Entertainment]]
     - Template for entertainment information
 - [[0A_10_2_Movie&ShowReview]]
-	- Template for movies and shows reviews 
+    - Template for movies and shows reviews 
 ## 1️⃣1️⃣ - Application
 - [[0A_11_1_Application]]
     - Template for applications
@@ -77,7 +77,7 @@ tags:
 - [[0A_13_1_Meeting]]
     - Template for meetings information
 - [[0A_13_2_DailyCheckIn]]
-	- Template for a daily check in meeting
+    - Template for a daily check in meeting
 ## 1️⃣4️⃣ - Trackers
 - [[0A_14_1_SlipBox]]
     - Slip box, a index like template to organize information
@@ -85,13 +85,13 @@ tags:
     - Habit Tracker is a template to track and gain/lose any habit's
 ## 1️⃣5️⃣ - Company 
 - [[0A_15_1_Company]]
-	- Company information
+    - Company information
 ## 1️⃣6️⃣ - Investments
 - [[0A_16_1_Stocks]]
-	- Template to control stock 
+    - Template to control stock 
 ## 1️⃣7️⃣ - Entertainment
 - [[0A_17_1_WordDictionary]]
-	- Template to create a Word Dictionary where every word/Acronym is a file with it's explanation or meaning depending on the context. 
+    - Template to create a Word Dictionary where every word/Acronym is a file with it's explanation or meaning depending on the context. 
 ## 9️⃣9️⃣ - Indexation
 - [[0A_99_Index]]
     - Creation of an index like this one
